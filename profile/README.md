@@ -7,7 +7,7 @@ Hackero is a hacking simulation game losely based on the original mechanics of h
 - [Blog](https://blog.hackero.io)
 - [Discord](https://discord.gg/uu6Kp75)
 
-## Support the work
+## Support the project
 - [Patreon](https://www.patreon.com/tobiasbeck)
 - [Buy me a coffee](https://buymeacoffee.com/tobiasbeck)
 
